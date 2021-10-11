@@ -1,0 +1,7 @@
+D:\Навчання\Інформатика\ConsoleApp6\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Навчання\Інформатика\ConsoleApp6\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Навчання\Інформатика\ConsoleApp6\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Навчання\Інформатика\ConsoleApp6\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Навчання\Інформатика\ConsoleApp6\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Навчання\Інформатика\ConsoleApp6\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Навчання\Інформатика\ConsoleApp6\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
